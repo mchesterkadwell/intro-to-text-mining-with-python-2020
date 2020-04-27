@@ -11,7 +11,8 @@ cycler==0.10.0
 cymem==2.0.3
 decorator==4.4.2
 defusedxml==0.6.0
-en-core-web-sm==2.2.5
+# en-core-web-sm==2.2.5
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.5/en_core_web_sm-2.2.5.tar.gz#egg=en_core_web_sm
 entrypoints==0.3
 idna==2.9
 ipykernel==5.2.1
