@@ -1,0 +1,7 @@
+# Use this requirements-minimal.txt if you wish to use your existing installation of Jupyter, numpy etc.
+# Please be aware: you might find you have to debug the installation of dependencies
+beautifulsoup4
+matplotlib
+requests
+spacy==3.2.3
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.2.0/en_core_web_sm-3.2.0.tar.gz
