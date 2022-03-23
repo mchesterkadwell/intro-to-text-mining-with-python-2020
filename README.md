@@ -149,6 +149,10 @@ Then install all the dependencies by typing:
 
 `pip install -r requirements.txt`
 
+Then:
+
+`pip install jupyter`
+
 This should initiate a big list of downloads and will take a while to finish. Please be patient.
 
 Finally, to launch the Jupyter notebook server type:
